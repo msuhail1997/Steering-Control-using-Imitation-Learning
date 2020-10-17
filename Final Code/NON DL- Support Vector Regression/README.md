@@ -1,4 +1,4 @@
-## Non Deep Learning Baseline (Support Vector Regression):
+## Non Deep Learning Baseline (Support Vector Regression)
 1) Download the Track2(Jungle) dataset from the link provided in data README.md.
 2) Add the path of the folder that contains both IMG Folder and log file in the 'data_dir' part of the parser.
 3) Run train.py  using the command line "-$python3 train.py" in terminal to train the model.
