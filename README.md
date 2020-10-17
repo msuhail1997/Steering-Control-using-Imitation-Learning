@@ -17,7 +17,9 @@ These two directories correspond to the datasets of two diffferent terrains.
 
 *******************************************
 
+The models implemented were:
 
+A comparitive study was done between 5 models.
 For each model, we have provided a README.md file to help run that module.
 
 In general,
