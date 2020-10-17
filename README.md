@@ -1,3 +1,7 @@
+# Steering Control using Imitation Learning
+
+## The problem statement was solved with Behavioral Cloning, a simple type of Imitation Learning.
+
 This file is for data and simulator download
 
 
