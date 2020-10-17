@@ -18,6 +18,11 @@ These two directories correspond to the datasets of two diffferent terrains.
 *******************************************
 
 The models implemented were:
+* Support Vector Regression- ML baseline
+* CNN for One-shot learning - DL baseline
+* MTL (Multi-Task Learning) for Speed Control
+* Few-Shot Learning model
+* Transfer Learning
 
 A comparitive study was done between 5 models.
 For each model, we have provided a README.md file to help run that module.
