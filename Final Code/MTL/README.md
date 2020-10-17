@@ -1,7 +1,7 @@
 
 
 
-Multi Task Learning
+## Multi Task Learning
 1) The data directory "track1data" should be in the same directory as the code.
 
 2) A modified .csv file named "modified_driving_log1010-2.csv" has been provided. Please add that to the track1data directory. (It has modifications related to speed sequemce data).
