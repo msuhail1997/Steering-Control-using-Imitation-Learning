@@ -1,7 +1,5 @@
 # Steering Control using Imitation Learning
 
-## The problem statement was solved with Behavioral Cloning, a simple algorithm under Imitation Learning.
-
 This file is for data and simulator download
 
 
@@ -18,17 +16,16 @@ These two directories correspond to the datasets of two diffferent terrains.
 *******************************************
 
 The models implemented were:
-* Support Vector Regression- ML baseline
-* A CNN- DL baseline
+* Support Vector Regression- ML baseline model
+* CNN- DL baseline model
 * MTL (Multi-Task Learning) for Speed Control
-* Few-Shot Learning model
+* Few-shot learning 
 * Transfer Learning
 
 A comparitive study was done between these 5 models.
 For each model, we have provided a README.md file to help run that module.
 
-In general,
 model.py contains the model
-train.py contains the training and validation loop
+train.py contains the training and validation code
 utils.py contains helper functions
 drive.py is used for running the model on the simulator
