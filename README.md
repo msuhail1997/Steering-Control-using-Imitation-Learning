@@ -22,6 +22,9 @@ A comparitive study was done between these 5 models.
 Each model has a README.md file containing instructions in each folder.
 
 model.py - model file
+
 train.py - training and validation code
+
 utils.py - helper functions
+
 drive.py - driver code to run the model on the simulator
