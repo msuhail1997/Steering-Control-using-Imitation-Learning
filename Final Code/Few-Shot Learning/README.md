@@ -10,7 +10,7 @@ Please make the following directory changes in train.py:
 - Change the image path by downloading the images from the Support set folder in the function SupportSet.
 
 - Change the path of the two directories: data_dir to track2data (Jungle terrain) and data_dir2 to to track1data (Plains terrain).
-- 
+
   Data url : https://www.kaggle.com/zaynena/selfdriving-car-simulator
 
 
