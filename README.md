@@ -1,16 +1,12 @@
 # Steering Control using Imitation Learning
 
-This file is for data and simulator download
 
+1) Dataset url: https://www.kaggle.com/zaynena/selfdriving-car-simulator
 
+The "dataset" directory contains two sub-directories- "track1data" and "track2data" corresponding to datasets of two diffferent terrains.
 
-1) Please download data from this url: https://www.kaggle.com/zaynena/selfdriving-car-simulator
-
-You will download  "dataset" directory containing two sub-directories- "track1data" and "track2data".
-These two directories correspond to the datasets of two diffferent terrains.
-
-2) To download the simulator go to this url: https://github.com/udacity/self-driving-car-sim
-(We used the Version 2 simulators)
+2) Simulator url: https://github.com/udacity/self-driving-car-sim
+(Version 2 simulator was used)
 
 
 *******************************************
@@ -23,9 +19,9 @@ The models implemented were:
 * Transfer Learning
 
 A comparitive study was done between these 5 models.
-For each model, we have provided a README.md file to help run that module.
+Each model has a README.md file to run that module.
 
-model.py contains the model
-train.py contains the training and validation code
-utils.py contains helper functions
-drive.py is used for running the model on the simulator
+model.py - model file
+train.py - training and validation code
+utils.py - helper functions
+drive.py - driver code to run the model on the simulator
