@@ -3,7 +3,7 @@
 
 1) Dataset url: https://www.kaggle.com/zaynena/selfdriving-car-simulator
 
-The "dataset" directory contains two sub-directories- "track1data" and "track2data" corresponding to datasets of two diffferent terrains.
+The "dataset" directory contains two sub-directories- "track1data" and "track2data" corresponding to datasets of two different terrains.
 
 2) Simulator url: https://github.com/udacity/self-driving-car-sim
 (Version 2 simulator was used)
@@ -19,7 +19,7 @@ The models implemented were:
 * Transfer Learning
 
 A comparitive study was done between these 5 models.
-Each model has a README.md file containing instructions in each branch.
+Each model has a README.md file containing instructions in each folder.
 
 model.py - model file
 train.py - training and validation code
