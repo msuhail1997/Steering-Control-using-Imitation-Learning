@@ -7,6 +7,6 @@
    
 4) Download the Simulator using the link given in data README.md file
  
-5) Run the command'-$ python3 drive.py modeltrack2-random-4000.h5' to start the trained model.
+5) Run the command '-$ python3 drive.py modeltrack2-random-4000.h5' to start the trained model.
   
 6) Open the Simulator and open 'track 1' environment in Autonomous mode to visualize the performance of the model.
