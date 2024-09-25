@@ -9,4 +9,4 @@
  
 5) Run the command'-$ python3 drive.py modeltrack2-random-4000.h5' to start the trained model.
   
-6) Open the Simulator and open the track 1 environment in Autonomous mode and visualize the performance of the model.
+6) Open the Simulator and open track 1 environment in Autonomous mode to visualize the performance of the model.
