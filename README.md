@@ -15,8 +15,8 @@ The "dataset" directory contains two sub-directories- "track1data" and "track2da
 
 
 The models implemented were:
-* Support Vector Regression- ML baseline model
-* CNN- DL baseline model
+* Support Vector Regression
+* CNN
 * MTL (Multi-Task Learning) for Speed Control
 * Few-shot learning 
 * Transfer Learning
@@ -24,8 +24,9 @@ The models implemented were:
 
 
 
-A comparitive study was done between these 5 models.
-Each model has a README.md file containing instructions in each folder.
+A comparitive study was done between the models.
+
+Each model folder has a README.md file containing instructions to run the code.
 
 model.py - model file
 
