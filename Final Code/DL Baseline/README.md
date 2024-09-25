@@ -1,4 +1,4 @@
-## Deep Learning Baseline for Domain Adaptation
+## Deep Learning Baseline model for Domain Adaptation
 1) Download Track2 (Jungle) dataset from the link provided in data README.md.
    
 2) Add the folder path containing the IMG Folder and log file in the 'data_dir' part of the parser.
