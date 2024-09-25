@@ -19,7 +19,7 @@ The models implemented were:
 * Transfer Learning
 
 A comparitive study was done between these 5 models.
-Each model has a README.md file to run that module.
+Each model has a README.md file containing instructions in each branch.
 
 model.py - model file
 train.py - training and validation code
