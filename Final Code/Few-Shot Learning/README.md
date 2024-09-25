@@ -14,6 +14,8 @@ Please make the following directory changes in train.py:
   Data url : https://www.kaggle.com/zaynena/selfdriving-car-simulator
 
 
+
+
 Run the training loop using the command 'python3 train.py'
 
 After training, run the model on the simulator (can be downloaded from https://github.com/udacity/self-driving-car-sim) using the command 'python3 drive.py MODELNAME'.
