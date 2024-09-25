@@ -1,5 +1,5 @@
 ## Support Vector Regression (Non DL baseline)
-1) Download Track2(Jungle) dataset from the link provided in data README.md.
+1) Download Track2 (Jungle) dataset from the link provided in data README.md.
    
 2) Add the folder path that contains both IMG Folder and log file in the 'data_dir' part of the parser.
  
